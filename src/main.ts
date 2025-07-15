@@ -1,8 +1,8 @@
-import "./task-01";
-import "./task-02";
-import "./task-03";
-import "./task-04";
-import "./task-05";
-import "./task-06";
-import "./task-07";
-import "./task-08";
+import "./task-1.ts";
+import "./task-2.ts";
+import "./task-3.ts";
+import "./task-4.ts";
+import "./task-5.ts";
+import "./task-6.ts";
+import "./task-7.ts";
+import "./task-8.ts";
